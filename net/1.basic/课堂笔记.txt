@@ -1,0 +1,31 @@
+协议：
+	一组规则。
+
+传输层协议：TCP、UDP
+应用层协议：HTTP、FTP
+网络层协议：IP协议、ICMP协议、IGMP协议
+网络接口层：ARP协议、RARP协议
+
+TCP 传输控制协议  是一种面向连接的、可靠的、基于字节流的传输层通信协议
+UDP 用户数据报协议 是OSI参考模型中一种无连接的传输层协议，提供面向事物的简单不可靠信息传送服务
+HHTTP 超文本传输协议 是互联网上应用最广泛的一种协议
+FTP  文件传输协议
+IP   (Internet Protocol)协议是因特网互联协议
+ICMP (Internet Control Message Protocol)是internet控制报文协议，它是TCP/IP协议的一个子协议，用于在IP主机、路由器之间传递控制信息
+IGMP (Internet Group Management Protocol)是internet组管理协议，是因特网协议家族中的一个组播协议。该协议运行在主机和组播路由之间
+ARP  (Address Resolution Protocol)协议是正向地址解析协议，通过已知的IP，寻找对应主机的MAC地址
+RARP 协议反向地址转换协议，通过MAC地址确定IP地址
+
+
+OSI七层模型 物、数、网、传、会、表、应
+TCP/IP四层  网络接口层（链路层）、网络层、传输层、应用层
+
+
+网络通信过程
+    数据没有封装之前，
+	
+	
+	
+	
+	
+	

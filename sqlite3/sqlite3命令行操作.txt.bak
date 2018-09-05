@@ -1,0 +1,7 @@
+
+
+
+create table 表名(数据类型0 数据名0,数据类型1 数据名1, ....);
+
+INSERT INTO COMPANY (ID,NAME,AGE,ADDRESS,SALARY)
+VALUES (1, 'Paul', 32, 'California', 20000.00 );
